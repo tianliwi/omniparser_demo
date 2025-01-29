@@ -11,7 +11,7 @@ setup(
         'easyocr',
         'torchvision',
         'supervision==0.18.0',
-        'openai==1.3.5',
+        'openai', #==1.3.5',
         'transformers',
         'ultralytics', #==8.1.24',
         'azure-identity',
